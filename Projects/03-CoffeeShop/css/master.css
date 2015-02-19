@@ -1,0 +1,37 @@
+
+
+.header {
+	background: #111 url("../images/header.jpg") no-repeat center; 
+	background-size: cover;
+	padding: 150px 0 125px;
+	text-align: center;
+}
+
+
+h1 {
+	font-family: 'Sanchez', serif;
+	font-size: 60px
+	color: white;
+}
+
+	.logo {
+		color: #fff;
+		margin: 0 0 20px;
+	}
+
+	.logo:before {
+		background: url(../images/logo_large.png);
+		content: '';
+		display: block;
+		height: 100px;
+		margin: 0 auto 30px;
+		width: 100px;
+	}
+
+.intro {
+		color: #ccc;
+		font-size: 22px;
+		margin: 20px 0 0;
+	}
+
+}

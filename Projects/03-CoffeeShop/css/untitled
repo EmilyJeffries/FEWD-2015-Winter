@@ -1,0 +1,14 @@
+
+
+.header { }
+
+
+h1 {
+	font-family: 'Sanchez', serif;
+}
+
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	
+}
